@@ -2,6 +2,7 @@
 - 👀 I’m interested in making an OS.
 - 🌱 I’m currently learning how to make an OS.
 - 📫 How to reach me: Email zapost86@gmail.com or zapost@chickasha.k12.ok.us
+
 Email both because I might be in school.
 
 <!---
